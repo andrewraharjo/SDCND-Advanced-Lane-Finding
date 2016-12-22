@@ -2,8 +2,6 @@
 
 The goals / steps of this project are the following:
 
-The goals / steps of this project are the following:  
-
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply the distortion correction to the raw image.  
 * Use color transforms, gradients, etc., to create a thresholded binary image.
